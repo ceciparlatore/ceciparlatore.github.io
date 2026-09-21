@@ -1,0 +1,1 @@
+@Article{davila_parlatore_identifying_rfs,  Title                    = {Identifying Price Informativeness},  Author                   = {D\'{a}vila, Eduardo and Cecilia Parlatore},  Journal                  = {Review of Financial Studies},  Year                     = {2026},  Volume                   = {39},  Pages                    = {5},}

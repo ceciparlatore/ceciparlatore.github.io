@@ -1,0 +1,8 @@
+@Article\{acharya_parlatore_sundaresan_infrastructure,
+  Title                    = {Financing Infrastructure in the Shadow of Expropriation},
+  Author                   = {Acharya, Viral V. and Parlatore, Cecilia and Suresh Sundaresan},
+  Journal                  = {Review of Financial Studies},
+  Year                     = {2025},
+  Volume                   = {38 (5)},
+  Pages                    = {1336 - 1418},
+}

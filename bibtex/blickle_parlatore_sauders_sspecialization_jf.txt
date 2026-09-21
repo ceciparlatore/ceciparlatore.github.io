@@ -1,0 +1,1 @@
+@Article{blickle_parlatore_saunders_specialization,  Title                    = {Specialization in Banking},  Author                   = {Blickle, Kristian and Parlatore, Cecilia and Anthony Saunders},  Journal                  = {Journal of Finance},  Year                     = {2026},  Volume                   = {81},  Pages                    = {3},}

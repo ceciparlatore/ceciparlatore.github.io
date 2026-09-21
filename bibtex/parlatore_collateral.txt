@@ -1,0 +1,8 @@
+@Article{parlatore2019,
+  Title                    = {Collateralizing Liquidity},
+  Author                   = {Parlatore, Cecilia},
+  Journal                  = {Journal of Financial Economics},
+  Year                     = {2019},
+  Volume                   = {131},
+  Pages                    = {299-322},
+}

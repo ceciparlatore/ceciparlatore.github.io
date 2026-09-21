@@ -1,0 +1,8 @@
+@Article{besfamilleparlatore2009,
+  Title                    = {Modernization of Tax Administrations and Optimal Fiscal Policies},
+  Author                   = {Besfamille, Martin and Parlatore, Cecilia},
+  Journal                  = {Journal of Public Economic Theory},
+  Year                     = {2009},
+  Volume                   = {11(6)},
+  Pages                    = {897-926},
+}

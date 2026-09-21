@@ -1,0 +1,8 @@
+@Article{babusparlatore2021SFM,
+  Title                    = {Strategic Fragmented Markets},
+  Author                   = {Babus, Ana and Parlatore, Cecilia},
+  Journal                  = {Journal of Finance Economics},
+  Year                     = {2022},
+  Volume                   = {145(3)},
+  Pages                    = {876-908},
+}

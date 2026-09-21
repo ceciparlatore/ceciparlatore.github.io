@@ -1,0 +1,8 @@
+@Article{davilaparlatore2020tradingcosts,
+  Title                    = {Trading Costs and Informational Efficiency},
+  Author                   = {D{\'a}vila, Eduardo and Parlatore, Cecilia},
+  Journal                  = {The Journal of Finance},
+  Year                     = {2021},
+  Volume                   = {76(3)},
+  Pages                    = {1471-1539},
+}
